@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="conference:war" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca7f758-2354-43ba-8ff4-708d7d634dcc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/GreetingController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/greeting.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conference/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +23,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -31,7 +46,9 @@
     </option>
   </component>
   <component name="ProjectId" id="1ZXEIxmukFlOJsF3bNlMZ9RPYVP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
@@ -54,6 +71,11 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4844845" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jkinner\Desktop\Projects\Pluralsight-SpringMVC_Course_ConferenceApp\conference\src\main\webapp" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -184,7 +206,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584976962952</updated>
-      <workItem from="1584976965125" duration="4811000" />
+      <workItem from="1584976965125" duration="5918000" />
+      <workItem from="1585146403470" duration="1764000" />
     </task>
     <servers />
   </component>
@@ -196,7 +219,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
