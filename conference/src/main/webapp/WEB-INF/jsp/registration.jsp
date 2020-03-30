@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Index</title>
+    <title>Registration</title>
 </head>
 <body>
-    <h1>Hello, this is your Spring Boot app's main index page!</h1>
+    <h1>Registration</h1>
 </body>
 </html>
