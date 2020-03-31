@@ -7,11 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca7f758-2354-43ba-8ff4-708d7d634dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/model/Registration.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/src/main/resources/static/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/resources/static/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/src/main/webapp/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +207,7 @@
       <updated>1584976962952</updated>
       <workItem from="1584976965125" duration="5918000" />
       <workItem from="1585146403470" duration="8865000" />
-      <workItem from="1585578753529" duration="4369000" />
+      <workItem from="1585578753529" duration="6977000" />
     </task>
     <servers />
   </component>
