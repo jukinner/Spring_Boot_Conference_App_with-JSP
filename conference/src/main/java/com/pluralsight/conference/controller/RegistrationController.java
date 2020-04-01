@@ -19,6 +19,6 @@ public class RegistrationController {
     @PostMapping("registration")
     public String addRegistration(@ModelAttribute("registration") Registration registration) {
         System.out.println("registration: " + registration.getName());
-        return "registration";
+        return "registration"; //refers to registration.jsp page i WEB-INF folder which it gets from the application.properties file in "static" folder. It knows to do this becomes of the @springbootapplication  in ConfereneceApplication.java
     }
 }
