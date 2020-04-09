@@ -7,10 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5ca7f758-2354-43ba-8ff4-708d7d634dcc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conference/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/model/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/model/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="1.8 zulu" />
         <option name="lookForNested" value="true" />
       </MavenImportingSettings>
@@ -49,6 +52,7 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
@@ -66,7 +70,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.4844845" />
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
@@ -207,7 +211,12 @@
       <updated>1584976962952</updated>
       <workItem from="1584976965125" duration="5918000" />
       <workItem from="1585146403470" duration="8865000" />
-      <workItem from="1585578753529" duration="11386000" />
+      <workItem from="1585578753529" duration="12725000" />
+      <workItem from="1585773013849" duration="46000" />
+      <workItem from="1585773763769" duration="852000" />
+      <workItem from="1585783141213" duration="647000" />
+      <workItem from="1586183535468" duration="4578000" />
+      <workItem from="1586441848294" duration="3657000" />
     </task>
     <servers />
   </component>
