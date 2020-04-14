@@ -20,10 +20,9 @@ public class RegistrationController {
 
     @PostMapping("registration")
     public String addRegistration(@Valid @ModelAttribute("registration") Registration registration, BindingResult result) {
-
         //if we have an error, we can change the navigation for that error
         if(result.hasErrors()) {
-            System.out.println("There were errors");
+            System.out.println("There were errors"); //just to show that there are errors when you execute the page.
             return "registration";
         }
         System.out.println("registration: " + registration.getName());

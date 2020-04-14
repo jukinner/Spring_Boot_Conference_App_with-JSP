@@ -8,10 +8,9 @@
   <component name="ChangeListManager">
     <list default="true" id="5ca7f758-2354-43ba-8ff4-708d7d634dcc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/conference/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/ConferenceConfig.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/controller/RegistrationController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/model/Registration.java" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/java/com/pluralsight/conference/model/Registration.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/resources/messages.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/resources/messages.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conference/src/main/resources/messages_es.properties" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/resources/messages_es.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/conference/src/main/webapp/WEB-INF/jsp/registration.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -216,7 +215,9 @@
       <workItem from="1585773763769" duration="852000" />
       <workItem from="1585783141213" duration="647000" />
       <workItem from="1586183535468" duration="4578000" />
-      <workItem from="1586441848294" duration="3657000" />
+      <workItem from="1586441848294" duration="5101000" />
+      <workItem from="1586785518043" duration="599000" />
+      <workItem from="1586875167586" duration="1283000" />
     </task>
     <servers />
   </component>
