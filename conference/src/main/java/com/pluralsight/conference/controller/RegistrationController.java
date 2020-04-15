@@ -15,7 +15,7 @@ public class RegistrationController {
 
     @GetMapping("registration")
     public String getRegistration(@ModelAttribute("registration") Registration registration) {
-        return "registration";
+        return "registration"; //this string is resolved to the registration.jsp page via the internal view resolver. This is unlike user class where we return an instance of User as a rest reply.
     }
 
     @PostMapping("registration")
